@@ -1,9 +1,4 @@
 # SAFREE: Training-Free and Adaptive Guard for Safe Text-to-Image and Video Generation
-[![Project Website](https://img.shields.io/badge/Project-Website-blue)](https://safree-safe-t2i-t2v.github.io/)  [![arXiv](https://img.shields.io/badge/arXiv-2410.12761-b31b1b.svg)](https://arxiv.org/abs/2410.12761)
-
-
-### Authors: [Jaehong Yoon*](https://jaehong31.github.io/), [Shoubin Yu*](https://yui010206.github.io/), [Vaidehi Patil](https://vaidehi99.github.io/), [Huaxiu Yao](https://www.huaxiuyao.io/), [Mohit Bansal](https://www.cs.unc.edu/~mbansal/)
-### University of North Carolina at Chapel Hill
 
 <div align=center> 
 <img src="./assets/teaser-new.png" alt="teaser image" width="800"/>
